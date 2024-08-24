@@ -8,6 +8,7 @@
  * @author Mord Mora
  */
 public class Main extends javax.swing.JFrame {
+    
 
     /**
      * Creates new form Main
